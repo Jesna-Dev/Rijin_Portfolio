@@ -28,7 +28,7 @@ export default function Projects() {
     <section id="Projects" className="w-full py-20 px-6 md:px-16 bg-gradient-to-b from-white via-yellow-100 to-white">
       {/* Section Title */}
       <div className="mb-12">
-        <h3 className="text-sm font-semibold tracking-wider text-blue-300">
+        <h3 className="text-sm font-semibold tracking-wider text-yellow-300">
           MY WORK
         </h3>
         <h2 className="text-3xl md:text-4xl font-bold">RECENT PROJECT</h2>

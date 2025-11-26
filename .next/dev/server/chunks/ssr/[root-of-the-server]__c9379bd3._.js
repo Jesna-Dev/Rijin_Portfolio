@@ -136,10 +136,27 @@ function Skills() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Rijin_Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
         className: "w-full py-20 text-center px-4",
         children: [
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Rijin_Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                className: "text-xl text-gray-600 mb-10",
-                children: "Skills & Technologies"
-            }, void 0, false, {
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Rijin_Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "mb-12",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Rijin_Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                        className: "text-sm font-semibold tracking-wider text-yellow-400",
+                        children: "My Mind"
+                    }, void 0, false, {
+                        fileName: "[project]/Documents/Rijin_Portfolio/app/components/Skills.jsx",
+                        lineNumber: 26,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Rijin_Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                        className: "text-3xl md:text-4xl font-bold",
+                        children: "Skills & Technologies"
+                    }, void 0, false, {
+                        fileName: "[project]/Documents/Rijin_Portfolio/app/components/Skills.jsx",
+                        lineNumber: 29,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
                 fileName: "[project]/Documents/Rijin_Portfolio/app/components/Skills.jsx",
                 lineNumber: 25,
                 columnNumber: 7
@@ -160,12 +177,12 @@ function Skills() {
                         children: skill
                     }, index, false, {
                         fileName: "[project]/Documents/Rijin_Portfolio/app/components/Skills.jsx",
-                        lineNumber: 31,
+                        lineNumber: 34,
                         columnNumber: 11
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/Documents/Rijin_Portfolio/app/components/Skills.jsx",
-                lineNumber: 29,
+                lineNumber: 32,
                 columnNumber: 7
             }, this)
         ]
@@ -210,7 +227,7 @@ function Projects() {
                 className: "mb-12",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Rijin_Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                        className: "text-sm font-semibold tracking-wider text-blue-300",
+                        className: "text-sm font-semibold tracking-wider text-yellow-300",
                         children: "MY WORK"
                     }, void 0, false, {
                         fileName: "[project]/Documents/Rijin_Portfolio/app/components/Projects.jsx",
@@ -360,7 +377,7 @@ function Experience() {
                 className: "mb-12",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Rijin_Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                        className: "text-sm font-semibold tracking-wider text-blue-400",
+                        className: "text-sm font-semibold tracking-wider text-yellow-400",
                         children: "EXPERIENCE"
                     }, void 0, false, {
                         fileName: "[project]/Documents/Rijin_Portfolio/app/components/Experience.jsx",

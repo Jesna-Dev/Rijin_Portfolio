@@ -26,7 +26,7 @@ export default function Experience() {
     <section id="Experience" className="w-full py-20 px-6 md:px-20 bg-gradient-to-b from-white via-yellow-100 to-white">
       {/* Title */}
       <div className="mb-12">
-        <h3 className="text-sm font-semibold tracking-wider text-blue-400">
+        <h3 className="text-sm font-semibold tracking-wider text-yellow-400">
           EXPERIENCE
         </h3>
         <h2 className="text-3xl md:text-4xl font-bold">WORK HISTORY</h2>

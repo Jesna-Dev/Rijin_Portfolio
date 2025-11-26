@@ -22,9 +22,12 @@ export default function Skills() {
 
   return (
     <section className="w-full py-20 text-center px-4">
-      <h2 className="text-xl text-gray-600 mb-10">
-        Skills & Technologies
-      </h2>
+      <div className="mb-12">
+        <h3 className="text-sm font-semibold tracking-wider text-yellow-400">
+          My Mind
+        </h3>
+        <h2 className="text-3xl md:text-4xl font-bold">Skills & Technologies</h2>
+      </div>
 
       <div className="flex flex-wrap justify-center gap-4 max-w-5xl mx-auto">
         {skills.map((skill, index) => (
